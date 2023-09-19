@@ -1,1 +1,151 @@
+:root {
+        --header-border: #1B1B1B;
+        --sett-active-nav-item-border: #D8A657;
+        --fg: #DDC7A1;
+    }
 
+.theme_dark {
+    --background-color: #282828;
+    --color-primary: #DDC7A1;
+    --page-text-color: #DDC7A1;
+    --header-bg: #1B1B1B;
+    --search-result-title: #D8A657;
+    --color-primary_hover: #7DAEA3;
+    --yellow: #D8A657;
+    --fg: #DDC7A1;
+    --search-result-content-text: #DDC7A1;
+    --result-item-title-border_hover: #7DAEA3;
+    --color-primary_visited: #A9B665;
+    --control-center-bg: #45403D;
+    --search-result-url-link: #D3869B;
+    --color_link: #D8A657;
+    --tabs-round-bg: #282828;
+    --related-item-bg: #282828;
+    --inline-widget-bg: #282828;
+}
+
+.footer,
+footer {
+    background-color: #1B1B1B;
+}
+
+.inlineHeader {
+    color: #DDC7A1;
+}
+
+.list-widget .inlineHeader {
+    border-bottom: 1px solid #DDC7A1;
+}
+
+.search-form .search-input-container {
+    border: 2px solid #282828;
+    background-color: #1B1B1B;
+}
+
+.__sri-title .__sri_title_link {
+    border-bottom: 1px solid #DDC7A1;
+}
+
+.__srgi-title a {
+    border-bottom: 1px solid #DDC7A1;
+}
+
+.__sri-time.--new {
+    background-color: #1B1B1B;
+    color: #A9B665;
+}
+
+.widget-simple .__domain-name {
+    background-color: #1B1B1B;
+    color: #7C6F64;
+}
+
+.land_adv_search_btn {
+    color: #7C6F64;
+}
+
+.btn.--yellow {
+    background-color: #D8A657;
+    border: 1px solid #D8A657;
+    color: #282828;
+}
+
+.k_ui_toggle_switch {
+    --active-bg-color: #A9B665;
+}
+
+.app-logo {
+    color: #E78A4E;
+}
+
+#accountContainer #bell_notification .notification_count {
+    background-color: #E78A4E;
+}
+
+.dropdown .dd-toggle-label {
+    background-color: #1B1B1B;
+}
+
+.dropdown .dd-toggle-label:hover {
+    background-color: #282828;
+}
+
+.set_header {
+    background-color: #1B1B1B;
+}
+
+.set_nav .app-sidebar-nav .app-sidebar-nav-in {
+    background-color: #1B1B1B;
+}
+
+input:not(input[type="checkbox"]),
+textarea {
+    background-color: #1B1B1B;
+}
+
+.dropdown.dd-b .dd-list,
+.dropdown.dd-b .dd-toggle-label,
+.dropdown.dd-b .dd-toggle-label::before {
+    border: 1px solid #928374;
+}
+
+.wikipediaResult .wiki-title a {
+    color: #DDC7A1;
+}
+
+.wiki-desc-box {
+    color: #DDC7A1;
+}
+
+.wikipediaResult a {
+    color: #D8A657;
+}
+
+.wikipediaTable td {
+    color: #DDC7A1;
+}
+
+.wikipediaTable td span {
+    color: #928374;
+}
+
+.wikipediaResult .wiki-sub-title {
+    color: #928374;
+}
+
+#top-parent {
+    color: #928374;
+}
+
+#top-parent i {
+    color: #A89984;
+}
+
+.__sri-time {
+    background-color: #1B1B1B;
+    color: #A9B665;
+}
+
+.reddit-og .num {
+    color: #7DAEA3;
+}
