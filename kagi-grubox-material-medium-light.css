@@ -1,0 +1,132 @@
+:root {
+    --header-border: #eee0b7;
+    --sett-active-nav-item-border: #b47109;
+    --fg: #4f3829;
+}
+.theme_light {
+    --background-color: #fbf1c7;
+    --color-primary: #4f3829;
+    --page-text-color: #4f3829;
+    --header-bg: #eee0b7;
+    --search-result-title: #b47109;
+    --color-primary_hover: #45707a;
+    --yellow: #b47109;
+    --fg: #4f3829;
+    --search-result-content-text: #4f3829;
+    --result-item-title-border_hover: #45707a;
+    --color-primary_visited: #6c782e;
+    --control-center-bg: #eee0b7;
+    --search-result-url-link: #945e80;
+    --color_link: #b47109;
+    --tabs-round-bg: #fbf1c7;
+    --related-item-bg: #fbf1c7;
+    --inline-widget-bg: #fbf1c7;
+}
+
+.footer,
+footer {
+    background-color: #eee0b7;
+}
+
+.search-form .search-input-container {
+    border: 2px solid #fbf1c7;
+    background-color: #eee0b7;
+}
+
+.__sri-title .__sri_title_link {
+    border-bottom: 1px solid #4f3829;
+}
+
+.__srgi-title a {
+    border-bottom: 1px solid #4f3829;
+}
+
+.land_adv_search_btn {
+    color: #7c6f64;
+}
+
+.btn.--yellow {
+    background-color: #b47109;
+    border: 1px solid #b47109;
+    color: #fbf1c7;
+}
+
+.k_ui_toggle_switch {
+    --active-bg-color: #6c782e;
+}
+
+.app-logo {
+    color: #c35e0a;
+}
+
+#accountContainer #bell_notification .notification_count {
+    background-color: #c35e0a;
+}
+
+.dropdown .dd-toggle-label {
+    background-color: #eee0b7;
+}
+
+.dropdown .dd-toggle-label:hover {
+    background-color: #fbf1c7;
+}
+
+.set_header {
+    background-color: #eee0b7;
+}
+
+.set_nav .app-sidebar-nav .app-sidebar-nav-in {
+    background-color: #eee0b7;
+}
+
+input:not(input[type="checkbox"]),
+textarea {
+    background-color: #eee0b7;
+}
+
+.dropdown.dd-b .dd-list,
+.dropdown.dd-b .dd-toggle-label,
+.dropdown.dd-b .dd-toggle-label::before {
+    border: 1px solid #928374;
+}
+
+.wikipediaResult .wiki-title a {
+    color: #4f3829;
+}
+
+.wiki-desc-box {
+    color: #4f3829;
+}
+
+.wikipediaResult a {
+    color: #b47109;
+}
+
+.wikipediaTable td {
+    color: #4f3829;
+}
+
+.wikipediaTable td span {
+    color: #928374;
+}
+
+.wikipediaResult .wiki-sub-title {
+    color: #928374;
+}
+
+#top-parent {
+    color: #928374;
+}
+
+#top-parent i {
+    color: #a89984;
+}
+
+.__sri-time {
+    background-color: #eee0b7;
+    color: #6c782e;
+}
+
+.reddit-og .num {
+    color: #45707a;
+}
